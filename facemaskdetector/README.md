@@ -1,4 +1,4 @@
-# FaceMasknlDetection 
+# FaceMaskDetection 
 
 Android app for detecting Presence of Facemask
 
