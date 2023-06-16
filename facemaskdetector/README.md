@@ -1,6 +1,6 @@
-# fruits360
+# FaceMasknlDetection 
 
-Android app for Fruits Prediction
+Android app for detecting Presence of Facemask
 
 ## Getting Started
 
