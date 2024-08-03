@@ -74,10 +74,10 @@ The actual accuracy of the model will depend on various factors such as the qual
 
 ### Train and Validation Loss Based on Models
 
-| ResNet-18 | Detector over ResNet-18 | Detector over ResNet-50 |
+| **ResNet-18** | **Detector over ResNet-18** | **Detector over ResNet-50** |
 |:---------:|:-----------------------:|:-----------------------:|
 | <img src="./Readme.md/2rsifnmp.png" width="250"> | <img src="./Readme.md/z2ffxyc0.png" width="250"> | <img src="./Readme.md/ikzfe4qu.png" width="250"> |
-| **ResNet-18** | **Detector over ResNet-18** | **Detector over ResNet-50** |
+
 
 Based on the evaluation of the train and validation loss:
 - ResNet18 performs worse compared to the other two models, due to its simpler architecture.
@@ -86,10 +86,9 @@ Based on the evaluation of the train and validation loss:
 
 ### Based on number of Parameters or layers
 
-| 1 Dropout layer removed | All dropout layers are kept | All dropout layers removed |
+| **1 Dropout layer removed** | **All dropout layers are kept** | **All dropout layers removed** |
 |:-----------------------:|:---------------------------:|:--------------------------:|
 | <img src="./Readme.md/buh5zg0e.png" width="250"> | <img src="./Readme.md/eapyh5v2.png" width="250"> | <img src="./Readme.md/zx42fgdp.png" width="250"> |
-| **1 Dropout layer removed** | **All dropout layers are kept** | **All dropout layers removed** |
 | Removing a single dropout layer to increase the number of parameters, we can see that the validation curve is slightly above than train curve | The current parameters with no additional dropout layers and hence avoid overfitting. Therefore it outputs a good validation curve which is closer to train curve | By removing all dropout layers our the model is able to get more complex features since the number of parameters reached to millions and therefore the loss reaches zero in less epochs |
 
 The removal of all dropout layers from the model may result in overfitting and requires a lot more time. The accuracy and losses presented may depend on data distribution, thus we proceed with keeping all the dropout layers to obtain the best results.
