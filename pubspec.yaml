@@ -1,5 +1,5 @@
-name: fruits360
-description: Androi app for Fruits Prediction
+name: Face Mask Detect
+description: Android app for Face Mask Detection
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
