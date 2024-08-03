@@ -95,7 +95,7 @@ Embedded System Project (ESE5) 1
 
 Embedded System Project (ESE5) 2
 
-<img src="./B20CS002_B20EE079Report.md/xk5xlq2p.png" style="width:3.5in;height:1.61458in" />
+<img src="./Readme.md/xk5xlq2p.png" style="width:3.5in;height:1.61458in" />
 
 > patience - 10: number of epochs to wait before stopping training if
 > the validation loss has not improved
@@ -121,7 +121,7 @@ Embedded System Project (ESE5) 2
 
 Embedded System Project (ESE5) 3
 
-<img src="./gk4cd2bw.png" style="width:2.5in;height:2.88542in" /><img src="./0451aud3.png" style="width:2in;height:2.75in" />
+<img src="./Readme.md/gk4cd2bw.png" style="width:2.5in;height:2.88542in" /><img src="./Readme.md/0451aud3.png" style="width:2in;height:2.75in" />
 
 > Using ResNet18 base as a backbone of detector architecture, several
 > fully connected layers are added to learn a mapping from the extracted
@@ -139,7 +139,7 @@ Embedded System Project (ESE5) 3
 
 Embedded System Project (ESE5) 4
 
-<img src="./2rsifnmp.png"
+<img src="./Readme.md/2rsifnmp.png"
 style="width:1.83333in;height:1.35417in" />
 
 > This neural network design uses transfer learning with ResNet50 as the
@@ -165,7 +165,7 @@ style="width:1.83333in;height:1.35417in" />
 >
 > **Train** **and** **Validation** **Loss** **Based** **on** **Models**
 >
-> <img src="./z2ffxyc0.png" style="width:2in;height:1.51042in" /><img src="./ikzfe4qu.png" style="width:2in;height:1.54167in" />ResNet-18
+> <img src="./Readme.md/z2ffxyc0.png" style="width:2in;height:1.51042in" /><img src="./Readme.md/ikzfe4qu.png" style="width:2in;height:1.54167in" />ResNet-18
 > Detector over ResNet- Detector over ResNet-50 18
 >
 > Based on the evaluation of the train and validation loss, it seems
@@ -176,8 +176,8 @@ style="width:1.83333in;height:1.35417in" />
 
 Embedded System Project (ESE5) 5
 
-<img src="./buh5zg0e.png" style="width:2in;height:1.48958in" /><img src="./eapyh5v2.png"
-style="width:1.83333in;height:1.35417in" /><img src="./zx42fgdp.png" style="width:2in;height:1.54167in" />
+<img src="./Readme.md/buh5zg0e.png" style="width:2in;height:1.48958in" /><img src="./Readme.md/eapyh5v2.png"
+style="width:1.83333in;height:1.35417in" /><img src="./Readme.md/zx42fgdp.png" style="width:2in;height:1.54167in" />
 
 > Whereas ResNet18 with CNN performs better than the ResNet model in
 > terms of loss, which could be attributed to the added CNN headers that
@@ -226,10 +226,10 @@ epochs
 
 Embedded System Project (ESE5) 6
 
-<img src="./c13zecnk.png"
-style="width:3.08333in;height:2.32292in" /><img src="./jban1koh.png"
-style="width:3.08333in;height:2.32292in" /><img src="./2xesqpsj.png"
-style="width:2.67708in;height:1.96875in" /><img src="./5e10rriu.png"
+<img src="./Readme.md/c13zecnk.png"
+style="width:3.08333in;height:2.32292in" /><img src="./Readme.md/jban1koh.png"
+style="width:3.08333in;height:2.32292in" /><img src="./Readme.md/2xesqpsj.png"
+style="width:2.67708in;height:1.96875in" /><img src="./Readme.md/5e10rriu.png"
 style="width:3.48958in;height:1.34375in" />
 
 > Detector with ResNet-18 backbone Detector with ResNet-50 backbone
@@ -252,7 +252,7 @@ style="width:3.48958in;height:1.34375in" />
 
 Embedded System Project (ESE5) 7
 
-<img src="./vlqnzixg.png" style="width:2.5in;height:2.5625in" />
+<img src="./Readme.md/vlqnzixg.png" style="width:2.5in;height:2.5625in" />
 
 > **Results**
 >
@@ -276,6 +276,6 @@ Embedded System Project (ESE5) 7
 
 Embedded System Project (ESE5) 8
 
-<img src="./djckvl2f.png" style="width:2.5in;height:5.19792in" /><img src="./2vedxyno.png" style="width:2.5in;height:5.19792in" />
+<img src="./Readme.md/djckvl2f.png" style="width:2.5in;height:5.19792in" /><img src="./Readme.md/2vedxyno.png" style="width:2.5in;height:5.19792in" />
 
 Embedded System Project (ESE5) 9
