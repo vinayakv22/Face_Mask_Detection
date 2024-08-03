@@ -135,3 +135,6 @@ A Flutter UI was developed to integrate the trained model with a mobile applicat
   <img src="./Readme.md/djckvl2f.png" width="250" />
   <img src="./Readme.md/2vedxyno.png" width="250" /> 
 </p>
+<p align="center">
+  Screenshots illustrating the functionality and user interface of the face mask detection application.
+</p>
