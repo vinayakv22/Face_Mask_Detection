@@ -105,7 +105,7 @@ To evaluate the models' performance, sparse categorical accuracy, confusion matr
 
 | Confusion Matrix | Classification Table |
 |:-----------------:|:--------------------:|
-| <img src="./Readme.md/2xesqpsj.png" width="320"> | <img src="./Readme.md/5e10rriu.png" width="420"> |
+| <img src="./Readme.md/2xesqpsj.png" width="380"> | <img src="./Readme.md/5e10rriu.png" width="420"> |
 | **Confusion Matrix** | **Classification Table** |
 
 Sparse categorical accuracy measures the proportion of correctly predicted class labels out of all predictions, and it is a common metric for multi-class classification tasks like face mask detection. A confusion matrix shows the number of correct and incorrect predictions for each class, and it could provide insights into the models' strengths and weaknesses in classifying different classes.
