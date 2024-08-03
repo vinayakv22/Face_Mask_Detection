@@ -276,6 +276,9 @@ Embedded System Project (ESE5) 7
 
 Embedded System Project (ESE5) 8
 
-<img src="./Readme.md/djckvl2f.png" style="width:2.5in;height:5.19792in" /><img src="./Readme.md/2vedxyno.png" style="width:2.5in;height:5.19792in" />
+<p align="center">
+  <img src="./Readme.md/djckvl2f.png" width="250" />
+  <img src="./Readme.md/2vedxyno.png" width="250" /> 
+</p>
 
 Embedded System Project (ESE5) 9
