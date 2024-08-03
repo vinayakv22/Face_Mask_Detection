@@ -95,7 +95,7 @@ Embedded System Project (ESE5) 1
 
 Embedded System Project (ESE5) 2
 
-<img src="./xk5xlq2p.png" style="width:3.5in;height:1.61458in" />
+<img src="./B20CS002_B20EE079Report.md/xk5xlq2p.png" style="width:3.5in;height:1.61458in" />
 
 > patience - 10: number of epochs to wait before stopping training if
 > the validation loss has not improved
