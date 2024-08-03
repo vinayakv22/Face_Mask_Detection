@@ -97,31 +97,16 @@ The removal of all dropout layers from the model may result in overfitting and r
 
 To evaluate the models' performance, sparse categorical accuracy, confusion matrix, and classification table could be used.
 
-<div style="display: flex; justify-content: center; text-align: center;">
-  <div style="margin: 10px; max-width: 400px;">
-    <p><strong>Detector with ResNet-18 backbone</strong></p>
-    <img src="./Readme.md/c13zecnk.png" width="400" />
-  </div>
-  
-  <div style="margin: 10px; max-width: 400px;">
-    <p><strong>Detector with ResNet-50 backbone</strong></p>
-    <img src="./Readme.md/jban1koh.png" width="400" />
-  </div>
-</div>
+| **Detector with ResNet-18 backbone** | **Detector with ResNet-50 backbone** |
+|:--------------------------------:|:--------------------------------:|
+| <img src="./Readme.md/c13zecnk.png" width="300"> | <img src="./Readme.md/jban1koh.png" width="300"> |
 
 #### ResNet-18 + CNN (our best model)
 
-<div style="display: flex; justify-content: center; align-items: flex-start; text-align: center;">
-  <div style="margin: 10px; max-width: 320px;">
-    <p><strong>Confusion Matrix</strong></p>
-    <img src="./Readme.md/2xesqpsj.png" width="320" />
-  </div>
-  
-  <div style="margin: 10px; max-width: 420px;">
-    <p><strong>Classification Table</strong></p>
-    <img src="./Readme.md/5e10rriu.png" width="420" />
-  </div>
-</div>
+| Confusion Matrix | Classification Table |
+|:-----------------:|:--------------------:|
+| <img src="./Readme.md/2xesqpsj.png" width="320"> | <img src="./Readme.md/5e10rriu.png" width="420"> |
+| **Confusion Matrix** | **Classification Table** |
 
 Sparse categorical accuracy measures the proportion of correctly predicted class labels out of all predictions, and it is a common metric for multi-class classification tasks like face mask detection. A confusion matrix shows the number of correct and incorrect predictions for each class, and it could provide insights into the models' strengths and weaknesses in classifying different classes.
 
@@ -129,13 +114,17 @@ Based on the above discussion, ResNet18 with CNN could potentially outperform Re
 
 ## Results
 
-<p align="center">
-  <img src="./Readme.md/vlqnzixg.png" width="400" />
-</p>
-
-Predicted Results of Detector based on CNN architecture build with a backbone over ResNet18
-
-The face mask detection model designed using ResNet18 with CNN architecture was able to successfully predict whether a person is wearing a mask or not. The model achieved high accuracy on both training and validation sets, with the best performance obtained using ResNet18 with CNN architecture, which outperformed ResNet18 and ResNet50 with CNN architectures in terms of loss and sparse categorical accuracy.
+<table>
+  <tr>
+    <td width="60%">
+      <p><strong>Predicted Results of Detector based on CNN architecture build with a backbone over ResNet18</strong></p>
+      <p>The face mask detection model designed using ResNet18 with CNN architecture was able to successfully predict whether a person is wearing a mask or not. The model achieved high accuracy on both training and validation sets, with the best performance obtained using ResNet18 with CNN architecture, which outperformed ResNet18 and ResNet50 with CNN architectures in terms of loss and sparse categorical accuracy.</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="./Readme.md/vlqnzixg.png" width="300">
+    </td>
+  </tr>
+</table>
 
 ## Mobile Application
 
