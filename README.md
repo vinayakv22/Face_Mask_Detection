@@ -76,15 +76,15 @@ The actual accuracy of the model will depend on various factors such as the qual
 
 <p align="center">
   <figure style="display: inline-block; margin: 10px;">
-    <img src="./Readme.md/2rsifnmp.png" width="250" />
+    <img src="./Readme.md/2rsifnmp.png" width="200" />
     <figcaption><strong>ResNet-18</strong></figcaption>
   </figure>
   <figure style="display: inline-block; margin: 10px;">
-    <img src="./Readme.md/z2ffxyc0.png" width="250" />
+    <img src="./Readme.md/z2ffxyc0.png" width="200" />
     <figcaption><strong>Detector over ResNet-18</strong></figcaption>
   </figure>
   <figure style="display: inline-block; margin: 10px;">
-    <img src="./Readme.md/ikzfe4qu.png" width="250" />
+    <img src="./Readme.md/ikzfe4qu.png" width="200" />
     <figcaption><strong>Detector over ResNet-50</strong></figcaption>
   </figure>
 </p>
