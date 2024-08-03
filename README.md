@@ -99,7 +99,7 @@ To evaluate the models' performance, sparse categorical accuracy, confusion matr
 
 | **Detector with ResNet-18 backbone** | **Detector with ResNet-50 backbone** |
 |:--------------------------------:|:--------------------------------:|
-| <img src="./Readme.md/c13zecnk.png" width="300"> | <img src="./Readme.md/jban1koh.png" width="300"> |
+| <img src="./Readme.md/c13zecnk.png" width="400"> | <img src="./Readme.md/jban1koh.png" width="400"> |
 
 #### ResNet-18 + CNN (our best model)
 
